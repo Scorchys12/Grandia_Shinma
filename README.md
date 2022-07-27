@@ -1,4 +1,4 @@
-# Grandia_Shinma
+# Grandia Shinma
 A Fantasy persistent world for Neverwinter Nights.
 
 Game: Neverwinter Nights: Enhanced Edition
