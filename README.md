@@ -5,4 +5,4 @@ Game: Neverwinter Nights: Enhanced Edition
 
 Website: https://shinmarealm.proboards.com/
 
-Discord: https://discord.gg/syBMRUe9CF
+Discord: https://discord.gg/QGpqmXC
